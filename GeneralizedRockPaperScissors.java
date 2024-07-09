@@ -13,7 +13,7 @@ public class GeneralizedRockPaperScissors {
             return;
         }
 
-        List<String> moves = Arrays.asList(args); // for command line arguments
+        List<String> moves = Arrays.asList(args);
 
         Game game = new Game(moves);
         game.play();
