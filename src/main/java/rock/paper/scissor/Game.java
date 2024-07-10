@@ -18,7 +18,9 @@ public class Game {
     }
 
     public void play() {
+
         try {
+
             String hmac = CryptoUtils.calculateHMAC(key, computerMove);
             System.out.println("HMAC: " + hmac);
 
@@ -28,6 +30,7 @@ public class Game {
                 for (int i = 0; i < moves.size(); i++) {
                     System.out.printf("%d - %s\n", i + 1, moves.get(i));
                 }
+
                 System.out.println("0 - Exit");
                 System.out.println("? - Help");
                 System.out.print("Enter your move: ");

@@ -9,22 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="306e2bad-1cb4-43cc-8089-d5733d25a7ce" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Task3_GeneralizedRockPaperScissors_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/game_jar2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/GeneralizedRockPaperScissors/game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/rock/paper/scissor/CryptoUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/rock/paper/scissor/Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/rock/paper/scissor/GameRules.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/rock/paper/scissor/HelpTable.java" afterDir="false" />
-    </list>
+    <list default="true" id="306e2bad-1cb4-43cc-8089-d5733d25a7ce" name="Changes" comment="GeneralizedRockPaperScissors" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -82,11 +67,24 @@
       <workItem from="1720536731084" duration="443000" />
       <workItem from="1720537185746" duration="2820000" />
       <workItem from="1720542696242" duration="363000" />
-      <workItem from="1720579655987" duration="1594000" />
+      <workItem from="1720579655987" duration="2315000" />
     </task>
+    <task id="LOCAL-00001" summary="GeneralizedRockPaperScissors">
+      <option name="closed" value="true" />
+      <created>1720582127285</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1720582127285</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="GeneralizedRockPaperScissors" />
+    <option name="LAST_COMMIT_MESSAGE" value="GeneralizedRockPaperScissors" />
   </component>
 </project>
